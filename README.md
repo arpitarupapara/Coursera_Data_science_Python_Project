@@ -7,4 +7,3 @@ Analyzing Historical Stock/Revenue Data and Building a Dashboard
 4 - Extracting GameStop Revenue Data Using Webscraping 
 5 - Tesla Stock and Revenue Dashboard
 6 - GameStop Stock and Revenue Dashboard
-7 - Sharing your Assignment Notebook
